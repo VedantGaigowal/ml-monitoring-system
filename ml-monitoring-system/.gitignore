@@ -1,0 +1,37 @@
+# Python cache — generated automatically, never upload
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment — too large, others create their own
+venv/
+env/
+.env/
+
+# Generated model files — recreated by running train_model.py
+models/trained_model.pkl
+models/retrained_model.pkl
+
+# Generated data files — recreated by running the scripts
+data/training_data.csv
+data/production_data.csv
+data/prediction_logs.csv
+data/period1_baseline_jan2023.csv
+data/period2_stress_jun2023.csv
+data/period3_crisis_dec2023.csv
+data/period4_recovery_mar2024.csv
+data/all_periods_combined.csv
+data/model_comparison.csv
+
+# Others
+README(personal).md
+THEORY.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
