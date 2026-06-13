@@ -1,0 +1,5 @@
+period,orig_accuracy,orig_f1,retrain_accuracy,retrain_f1
+Jan-2023 (Baseline),0.963,0.9623,0.822,0.7962
+Jun-2023 (Stress),0.6675,0.6522,0.6525,0.6299
+Dec-2023 (Crisis),0.6075,0.6077,0.5525,0.5277
+Mar-2024 (Recovery),0.853,0.8134,0.97,0.9689
